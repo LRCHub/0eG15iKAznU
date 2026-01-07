@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ディア ロンリーガール",
+  "base_artist": "Miliyah",
+  "createdAt": "2026-01-07T09:52:11.636300Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ディア ロンリーガール",
+      "artist": "加藤ミリヤ",
+      "has_synced": false,
+      "path": "select/01_ディア_ロンリーガール_加藤ミリヤ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "2 ディア ロンリーガール",
+      "artist": "加藤ミリヤ",
+      "has_synced": false,
+      "path": "select/02_2_ディア_ロンリーガール_加藤ミリヤ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ディア ロンリーガール - Dear Lonely Girl",
+      "artist": "Miliyah",
+      "has_synced": true,
+      "path": "select/03_ディア_ロンリーガール_-_Dear_Lonely_Girl_Miliyah.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ディア ロンリーガール",
+      "artist": "加藤 ミリヤ",
+      "has_synced": false,
+      "path": "select/pl_01_ディア_ロンリーガール_加藤_ミリヤ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ディア ロンリーガール",
+      "artist": "加藤 ミリヤ",
+      "has_synced": false,
+      "path": "select/pl_02_ディア_ロンリーガール_加藤_ミリヤ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ディア ロンリーガール",
+      "artist": "加藤 ミリヤ",
+      "has_synced": false,
+      "path": "select/pl_03_ディア_ロンリーガール_加藤_ミリヤ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ディア ロンリーガール",
+      "artist": "加藤 ミリヤ",
+      "has_synced": false,
+      "path": "select/pl_04_ディア_ロンリーガール_加藤_ミリヤ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ディア ロンリーガール (DJ SHUYA & GAKUSHI REMIX)",
+      "artist": "加藤 ミリヤ",
+      "has_synced": false,
+      "path": "select/pl_05_ディア_ロンリーガール_(DJ_SHUYA_&_GAKUSHI_REMIX)_加藤_ミリヤ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ディアロンリーガール",
+      "artist": "加藤 ミリヤ",
+      "has_synced": false,
+      "path": "select/pl_06_ディアロンリーガール_加藤_ミリヤ.txt"
+    }
+  ]
+}
